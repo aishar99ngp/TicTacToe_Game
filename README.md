@@ -1,2 +1,2 @@
 # TicTacToe_Game
-TicTacToe game made using c
+ TicTacToe game made using c
